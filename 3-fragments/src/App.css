@@ -1,0 +1,17 @@
+.p-items{
+  color: blue;
+  background-color: yellow;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 20px;
+
+}
+.head{
+  color: rebeccapurple;
+  background-color: greenyellow;
+  margin-top: 50px;
+  padding: 20px;
+  text-align: center;
+  text-decoration: underline;
+}

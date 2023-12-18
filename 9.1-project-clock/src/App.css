@@ -1,0 +1,9 @@
+.show-time{
+  font-family: fantasy;
+  color: rgb(25, 44, 25);
+  background-color: rgb(221, 122, 122);
+}
+
+.exact-time{
+  background-color: greenyellow;
+}
